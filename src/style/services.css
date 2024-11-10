@@ -1,0 +1,23 @@
+
+.about{
+    text-align: center;
+    margin-top: 20px;
+}
+body{
+background-image:url("/cpu.jpg");
+    background-size:cover;
+}
+.front{
+    margin-top:50px;
+    margin-left: 30px;
+    color:white;
+}
+.rest{
+    margin-top:20px;
+    background-color: orange;
+    border-radius:20px;
+    padding-top: 10px;
+    padding-left:10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}

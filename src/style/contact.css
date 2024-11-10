@@ -1,0 +1,57 @@
+.section{
+    margin-top: 20px;
+    margin-left:20px;
+}
+.contact{
+    
+    color:black;
+    margin-left:30px;
+}
+.para{
+    margin-top: 20px;
+    color:black;
+}
+.name{
+    margin-top: 10px;
+    color: black;
+    text-align:center;
+    margin-top:30px;
+    
+    color: black;
+    margin-right: 10px;
+    margin-top:20px;
+}
+.message{
+
+color:black;
+
+}
+    
+.submit{
+    margin-top: 20px;
+    font-weight: bold;
+    background-color: azure;
+}
+.email{
+    color:black;
+}
+.father{
+    text-align: center;
+}
+#name {
+    width: 250px;
+    height: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#email{
+    width: 250px;
+    height: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+#message{
+    margin-top: 20px;
+}

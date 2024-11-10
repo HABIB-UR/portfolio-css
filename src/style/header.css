@@ -1,0 +1,27 @@
+.header{
+    width:100%;
+    height:60px;
+    background-color: orange;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header-right{
+    width:40%;
+
+}
+.header-left{
+    display:flex;
+    justify-content: space-evenly;
+
+}
+.header-left li{
+    list-style-type: none;
+}
+.nav-links{
+    text-decoration: none;
+}
+.logo{
+    margin-left: 30px;
+}
+
